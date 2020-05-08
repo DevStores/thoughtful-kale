@@ -1,11 +1,11 @@
-title: Stackbit Azimuth Theme
+title: eXpand WhatsApp Call Center
 baseURL: /
 params:
-  palette: blue
+  palette: green
   header:
-    title: Azimuth
-    logo_img: images/logo.png
-    has_nav: true
+    title: Expand
+    logo_img: /images/logo.png
+    has_nav: false
     nav_links:
       - label: Home
         url: /
@@ -19,9 +19,28 @@ params:
         url: /signup
         primary: true
   footer:
-    logo_img: images/logo_alt.png
+    subscribe_title: Subscribe
+    subscribe_content: Stay up to date with our latest developments.
+    has_subscribe: true
+    social_title: Community
+    social_links:
+      - label: Twitter
+        url: https://twitter.com/
+        new_window: true
+      - label: Instagram
+        url: https://www.instagram.com/
+        new_window: true
+      - label: LinkedIn
+        url: https://www.linkedin.com/
+        new_window: true
     tagline: SaaS theme by Stackbit
-    has_nav: true
+    logo_img: images/logo_alt.png
+    has_social: true
+    content: "&copy; Stackbit. All rights reserved."
+    links:
+      - label: Made with Stackbit
+        url: https://www.stackbit.com
+        new_window: true
     nav_title: Company
     nav_links:
       - label: About Us
@@ -32,26 +51,7 @@ params:
         url: signup
       - label: Contact
         url: /contact
-    has_social: true
-    social_title: Community
-    social_links:
-      - label: Twitter
-        url: 'https://twitter.com/'
-        new_window: true
-      - label: Instagram
-        url: 'https://www.instagram.com/'
-        new_window: true
-      - label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        new_window: true
-    has_subscribe: true
-    subscribe_title: Subscribe
-    subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; Stackbit. All rights reserved.'
-    links:
-      - label: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+    has_nav: true
 disableKinds:
   - RSS
   - taxonomy
