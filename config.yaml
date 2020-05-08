@@ -4,7 +4,7 @@ params:
   palette: green
   header:
     title: Expand
-    logo_img: /images/logo.png
+    logo_img: /images/logo2.png
     has_nav: false
     nav_links:
       - label: Home
@@ -34,7 +34,7 @@ params:
         url: https://www.linkedin.com/
         new_window: true
     tagline: SaaS theme by Stackbit
-    logo_img: images/logo_alt.png
+    logo_img: /images/logo.png
     has_social: true
     content: "&copy; Stackbit. All rights reserved."
     links:
