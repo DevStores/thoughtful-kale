@@ -42,23 +42,32 @@ sections:
         image: /images/whatsapp_call_center_digital-03-1.png
         actions: []
       - content: >-
-          Tener un número fijo o móvil certificado por WhatsApp 
+          Tener un número fijo o móvil certificado por WhatsApp
+
 
           Realizar campañas con su base de clientes
 
+
           Automatizar la atención usando agentes virtuales (Bots) y/o atenderlos por chat (operadores)
+
 
           Chatear durante 24 horas por menos del costo de un SMS
 
+
           Implementar respuestas automáticas (solicitud de pedidos, horarios, coordinación de visitas)
+
 
           Recibir y enviar contenido multimedia (PDF, textos, audios, imágenes y videos)
 
+
           Recibir chats de distintas colas (ventas, soporte) y transferir chats entre ellas
+
 
           Etiquetar los chats (venta, renovación, etc.)
 
+
           Disponer del historial de todas las atenciones (Bot y/o operadores)
+
 
           Monitorear operadores y acceder a reportes
         title: "CON WHATSAPP OFICIAL PUEDE:"
