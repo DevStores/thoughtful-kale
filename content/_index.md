@@ -64,11 +64,11 @@ sections:
         title: "CON WHATSAPP OFICIAL PUEDE:"
         image: /images/whatsapp_call_center_digital-04-1.png
   - type: section_cta
-    subtitle: Adáptese rápidamente a esta nueva realidad atendiendo a sus clientes
-      por WhatsApp.
-    title: "eXpand es un software omnicanal que permite teletrabajar pero
-      manteniendo el control de su operación y el monitoreo de su operadores en
-      tiempo real desde cualquier parte. "
+    subtitle: Exoand permite teletrabajar pero manteniendo el control de su
+      operación y el monitoreo de su operadores en tiempo real desde cualquier
+      parte. Adáptese rápidamente a esta nueva realidad atendiendo a sus
+      clientes por WhatsApp.
+    title: eXpand Software Omnicanal
   - type: section_contact
     background: gray
     title: CÓMO CONTACTARNOS
