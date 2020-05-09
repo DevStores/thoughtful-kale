@@ -18,46 +18,33 @@ sections:
       Conecta con tus clientes.
     background: gray
     features:
-      - title: The Best Feature of Your Services
+      - title: EMPRESAS DE COBROS Y SEGUROS
         content: |-
           * Disminuye los tiempos de conversación
           * Mayor rapidez al intercambiar documentos
           * Inmediatez para contactar con el cliente
           * Mejor eficacia de tus agentes
         image: /images/whatsapp_call_center_digital-01.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
-        content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        actions: []
+      - title: AGENCIAS DE VIAJES, HOTELES, AEROLÍNEAS
+        content: |
+          * Contacta con tu cliente siempre que lo necesites
+          * La forma más rápida de ayudar a tu cliente
+          * Información de nuestro CRM siempre presente
+          * Tu cliente tendrá tu contacto para futuras compras
         image: /images/whatsapp_call_center_digital-02-1.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
-        content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        actions: []
+      - title: TIENDAS Y COMERCIOS
+        content: |-
+          * Aumenta la conversión de ventas en tu empresa
+          * Consigue ventas desde la propia conversación
+          * Habla con varios clientes a la vez con un solo agente
         image: /images/whatsapp_call_center_digital-03-1.png
-        actions:
-          - label: Learn More
-            url: /features
+        actions: []
   - type: section_contact
     background: gray
-    title: Contact
+    title: CÓMO CONTACTARNOS
     section_id: contact
-  - type: section_cta
-    title: This Is Call To Action Block!
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-  - type: section_posts
-    title: Latest Posts
-    section_id: recent-posts
-    background: gray
+    subtitle: Tienes alguna duda, ponte en contacto con nosotros
 layout: landing
 ---
