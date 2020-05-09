@@ -41,6 +41,12 @@ sections:
           Habla con varios clientes a la vez con un solo agente
         image: /images/whatsapp_call_center_digital-03-1.png
         actions: []
+  - type: section_cta
+    subtitle: Adáptese rápidamente a esta nueva realidad atendiendo a sus clientes
+      por WhatsApp.
+    title: "eXpand es un software omnicanal que permite teletrabajar pero
+      manteniendo el control de su operación y el monitoreo de su operadores en
+      tiempo real desde cualquier parte. "
   - type: section_contact
     background: gray
     title: CÓMO CONTACTARNOS
