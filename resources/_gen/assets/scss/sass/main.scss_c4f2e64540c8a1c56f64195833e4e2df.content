@@ -183,7 +183,7 @@ html {
   min-height: 100%; }
 
 body {
-  background: #f7f9fb;
+  background: #eef0f1;
   color: #4c5267;
   line-height: 1.66667;
   text-rendering: optimizeLegibility;
@@ -747,7 +747,7 @@ img {
     overflow: hidden;
     position: relative; }
   .site-header:before {
-    background: rgba(247, 249, 251, 0.75);
+    background: rgba(238, 240, 241, 0.75);
     content: "";
     height: 100vh;
     left: 0;
