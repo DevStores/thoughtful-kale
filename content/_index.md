@@ -11,17 +11,20 @@ sections:
       - label: Learn More
         url: /features
   - type: section_features
-    title: Features
+    title: DESCUBRE WHATSAPP CALL CENTER
     section_id: features
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    subtitle: Unificamos la aplicación de mensajería en una misma web para que tus
+      agentes puedan contestar a todos tus clientes. Sea cual sea tu empresa.
+      Conecta con tus clientes.
     background: gray
     features:
       - title: The Best Feature of Your Services
-        content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+        content: |-
+          * Disminuye los tiempos de conversación
+          * Mayor rapidez al intercambiar documentos
+          * Inmediatez para contactar con el cliente
+          * Mejor eficacia de tus agentes
+        image: /images/whatsapp_call_center_digital-01.png
         actions:
           - label: Learn More
             url: /features
@@ -29,7 +32,7 @@ sections:
         content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
-        image: images/feature2.png
+        image: /images/whatsapp_call_center_digital-02-1.png
         actions:
           - label: Learn More
             url: /features
@@ -37,7 +40,7 @@ sections:
         content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: images/feature3.png
+        image: /images/whatsapp_call_center_digital-03-1.png
         actions:
           - label: Learn More
             url: /features
