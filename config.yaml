@@ -21,7 +21,7 @@ params:
   footer:
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
-    has_subscribe: true
+    has_subscribe: false
     social_title: Community
     social_links:
       - label: Twitter
@@ -33,15 +33,15 @@ params:
       - label: LinkedIn
         url: https://www.linkedin.com/
         new_window: true
-    tagline: SaaS theme by Stackbit
+    tagline: eXpand Omnichannel Customer Journey Software
     logo_img: /images/logo.png
-    has_social: true
-    content: "&copy; Stackbit. All rights reserved."
+    has_social: false
+    content: "&copy; DT Marketing Todos los derechos reservados."
     links:
-      - label: Made with Stackbit
-        url: https://www.stackbit.com
+      - label: Made with ❤
+        url: https://www.dtmarketing.com.uy
         new_window: true
-    nav_title: Company
+    nav_title: eXpand
     nav_links:
       - label: About Us
         url: /about
@@ -51,7 +51,7 @@ params:
         url: signup
       - label: Contact
         url: /contact
-    has_nav: true
+    has_nav: false
 disableKinds:
   - RSS
   - taxonomy
