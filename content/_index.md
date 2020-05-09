@@ -8,8 +8,8 @@ sections:
       de lo que cuesta un SMS
     image: /images/integration-whatsapp.png
     actions:
-      - label: Learn More
-        url: /features
+      - label: CONTACTARNOS
+        url: "#contact"
   - type: section_features
     title: DESCUBRE WHATSAPP CALL CENTER
     section_id: features
