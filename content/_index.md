@@ -6,7 +6,7 @@ sections:
     section_id: hero
     content: Integre WhatsApp a su Call Center para atender a sus clientes por menos
       de lo que cuesta un SMS
-    image: /images/heading.png
+    image: /images/integration-whatsapp.png
     actions:
       - label: Learn More
         url: /features
