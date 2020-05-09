@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Omnichannel
 sections:
   - type: section_hero
     title: Digitaliza tú Call Center
