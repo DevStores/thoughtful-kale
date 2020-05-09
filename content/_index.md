@@ -20,25 +20,25 @@ sections:
     features:
       - title: EMPRESAS DE COBROS Y SEGUROS
         content: |-
-          * Disminuye los tiempos de conversación
-          * Mayor rapidez al intercambiar documentos
-          * Inmediatez para contactar con el cliente
-          * Mejor eficacia de tus agentes
+          Disminuye los tiempos de conversación
+          Mayor rapidez al intercambiar documentos
+          Inmediatez para contactar con el cliente
+          Mejor eficacia de tus agentes
         image: /images/whatsapp_call_center_digital-01.png
         actions: []
       - title: AGENCIAS DE VIAJES, HOTELES, AEROLÍNEAS
         content: |
-          * Contacta con tu cliente siempre que lo necesites
-          * La forma más rápida de ayudar a tu cliente
-          * Información de nuestro CRM siempre presente
-          * Tu cliente tendrá tu contacto para futuras compras
+          Contacta con tu cliente siempre que lo necesites
+          La forma más rápida de ayudar a tu cliente
+          Información de nuestro CRM siempre presente
+          Tu cliente tendrá tu contacto para futuras compras
         image: /images/whatsapp_call_center_digital-02-1.png
         actions: []
       - title: TIENDAS Y COMERCIOS
         content: |-
-          * Aumenta la conversión de ventas en tu empresa
-          * Consigue ventas desde la propia conversación
-          * Habla con varios clientes a la vez con un solo agente
+          Aumenta la conversión de ventas en tu empresa
+          Consigue ventas desde la propia conversación
+          Habla con varios clientes a la vez con un solo agente
         image: /images/whatsapp_call_center_digital-03-1.png
         actions: []
   - type: section_contact
