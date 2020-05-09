@@ -45,8 +45,8 @@ sections:
           - label: Learn More
             url: /features
   - type: section_reviews
-    title: Testimonials
-    section_id: reviews
+    title: Contact
+    section_id: contact
     subtitle: "Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. "
     background: white
