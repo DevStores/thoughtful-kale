@@ -17,29 +17,6 @@ sections:
       Conecta con tus clientes.
     background: gray
     features:
-      - title: EMPRESAS DE COBROS Y SEGUROS
-        content: |-
-          Disminuye los tiempos de conversación
-          Mayor rapidez al intercambiar documentos
-          Inmediatez para contactar con el cliente
-          Mejor eficacia de tus agentes
-        image: /images/whatsapp_call_center_digital-01.png
-        actions: []
-      - title: AGENCIAS DE VIAJES, HOTELES, AEROLÍNEAS
-        content: |
-          Contacta con tu cliente siempre que lo necesites
-          La forma más rápida de ayudar a tu cliente
-          Información de nuestro CRM siempre presente
-          Tu cliente tendrá tu contacto para futuras compras
-        image: /images/whatsapp_call_center_digital-02-1.png
-        actions: []
-      - title: TIENDAS Y COMERCIOS
-        content: |-
-          Aumenta la conversión de ventas en tu empresa
-          Consigue ventas desde la propia conversación
-          Habla con varios clientes a la vez con un solo agente
-        image: /images/whatsapp_call_center_digital-03-1.png
-        actions: []
       - content: >-
           Tener un número fijo o móvil certificado por WhatsApp
 
@@ -54,9 +31,12 @@ sections:
 
 
           Implementar respuestas automáticas (solicitud de pedidos, horarios, coordinación de visitas)
-
-
-          Recibir y enviar contenido multimedia (PDF, textos, audios, imágenes y videos)
+        title: "CON WHATSAPP OFICIAL PUEDE:"
+        image: /images/chat-y-reporte.png
+      - title: "TAMBIEN PUEDE:"
+        content: >-
+          Recibir y enviar contenido multimedia (PDF, textos, audios, imágenes y
+          videos)
 
 
           Recibir chats de distintas colas (ventas, soporte) y transferir chats entre ellas
@@ -69,8 +49,8 @@ sections:
 
 
           Monitorear operadores y acceder a reportes
-        title: "CON WHATSAPP OFICIAL PUEDE:"
-        image: /images/whatsapp_call_center_digital-04-1.png
+        image: /images/atencionwp.png
+        actions: []
   - type: section_cta
     subtitle: Expand permite teletrabajar pero manteniendo el control de su
       operación y el monitoreo de su operadores en tiempo real desde cualquier
