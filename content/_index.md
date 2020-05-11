@@ -2,10 +2,9 @@
 title: Omnichannel
 sections:
   - type: section_hero
-    title: Digitaliza tú Call Center
+    title: INTEGRE WHATSAPP AL CALL CENTER DE SU EMPRESA
     section_id: hero
-    content: Integre WhatsApp a su Call Center para atender a sus clientes por menos
-      de lo que cuesta un SMS
+    content: Hágalo teletrabajando o desde su empresa por menos de lo que vale un SMS!
     image: /images/integration-whatsapp.png
     actions:
       - label: CONTACTARNOS
