@@ -2,7 +2,7 @@
 title: Omnichannel
 sections:
   - type: section_hero
-    title: INTEGRE WHATSAPP AL CALL CENTER DE SU EMPRESA
+    title: INTEGRE WHATSAPP AL CONTACT CENTER DE SU EMPRESA
     section_id: hero
     content: Hágalo teletrabajando o desde su empresa por menos de lo que vale un SMS!
     image: /images/integration-whatsapp.png
@@ -12,9 +12,9 @@ sections:
   - type: section_features
     title: DESCUBRE WHATSAPP CALL CENTER
     section_id: features
-    subtitle: Unificamos la aplicación de mensajería en una misma web para que tus
-      agentes puedan contestar a todos tus clientes. Sea cual sea tu empresa.
-      Conecta con tus clientes.
+    subtitle: Unificamos la aplicación de mensajería en una misma web para que sus
+      agentes puedan contestar a todos sus clientes. Sea cual sea su empresa,
+      conecta con sus clientes.
     background: gray
     features:
       - content: >-
@@ -53,14 +53,14 @@ sections:
         actions: []
   - type: section_cta
     subtitle: Expand permite teletrabajar pero manteniendo el control de su
-      operación y el monitoreo de su operadores en tiempo real desde cualquier
+      operación y el monitoreo de sus operadores en tiempo real desde cualquier
       parte. Adáptese rápidamente a esta nueva realidad atendiendo a sus
       clientes por WhatsApp.
     title: eXpand Software Omnicanal
   - type: section_contact
     background: gray
-    title: CÓMO CONTACTARNOS
+    title: CÓMO CONTACTARNOS?
     section_id: contact
-    subtitle: Tienes alguna duda, ponte en contacto con nosotros
+    subtitle: Si tiene alguna duda, por favor póngase en contacto con nosotros
 layout: landing
 ---
