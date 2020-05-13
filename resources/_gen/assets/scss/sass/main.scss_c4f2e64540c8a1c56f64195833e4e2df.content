@@ -178,7 +178,8 @@ table {
  */
 html {
   font-family: "Nunito Sans", sans-serif;
-  font-size: 112.5%;
+  font-size: 119%;
+  font-weight: 700;
   height: 100%;
   min-height: 100%; }
 
@@ -237,7 +238,8 @@ h6 {
   font-size: 1rem; }
 
 p {
-  margin: 0 0 1.66667em; }
+  margin: 0 0 1.66667em;
+  font-size: 1.1rem; }
 
 address {
   font-style: italic;
@@ -1650,8 +1652,8 @@ img {
 
 .palette-green .block.bg-accent {
   background: #0A3B4D;
-  background: -webkit-linear-gradient(left, #0A3B4D, #1a5166);
-  background: linear-gradient(to right, #0A3B4D, #1a5166); }
+  background: -webkit-linear-gradient(left, #0A3B4D, #1a7191);
+  background: linear-gradient(to right, #0A3B4D, #1a7191); }
 
 .palette-orange a:hover, .palette-orange a:focus {
   border-color: #fe8c00;
