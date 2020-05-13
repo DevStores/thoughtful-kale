@@ -178,7 +178,7 @@ table {
  */
 html {
   font-family: "Nunito Sans", sans-serif;
-  font-size: 119%;
+  font-size: 110%;
   font-weight: 700;
   height: 100%;
   min-height: 100%; }
@@ -220,13 +220,13 @@ h6 {
     margin-top: 0; }
 
 h1 {
-  font-size: 2.44444rem; }
+  font-size: 2rem; }
 
 h2 {
   font-size: 2rem; }
 
 h3 {
-  font-size: 1.66667rem; }
+  font-size: 1rem; }
 
 h4 {
   font-size: 1.33333rem; }
@@ -239,7 +239,7 @@ h6 {
 
 p {
   margin: 0 0 1.66667em;
-  font-size: 1.1rem; }
+  font-size: 1.3rem; }
 
 address {
   font-style: italic;
@@ -1035,7 +1035,7 @@ img {
  * ----------------------------------------------------------------------------
  */
 .block-title {
-  font-size: 2.44444rem;
+  font-size: 2rem;
   margin: 0 0 1.33333rem; }
   .block-title:last-child {
     margin-bottom: 1.66667rem; }
@@ -1097,7 +1097,7 @@ img {
       margin-left: auto;
       margin-right: auto;
       max-width: 555px;
-      text-align: center; }
+      text-align: left; }
       .hero-block .cell:only-child .underline:after,
       .text-block .cell:only-child .underline:after,
       .block-item .cell:only-child .underline:after {
@@ -1408,7 +1408,7 @@ img {
       border-radius: 0 3px 3px 0;
       height: 100%;
       object-fit: cover;
-      width: 100%; }
+      width: 90%; }
   .posts-block .post-card-content {
     -webkit-flex: 1 1 auto;
     -ms-flex: 1 1 auto;
