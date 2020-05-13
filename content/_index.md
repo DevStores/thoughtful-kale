@@ -10,7 +10,7 @@ sections:
       - label: CONTACTARNOS
         url: "#contact"
   - type: section_features
-    title: DESCUBRE WHATSAPP CALL CENTER
+    title: DESCUBRA WHATSAPP CALL CENTER
     section_id: features
     subtitle: Unificamos la aplicación de mensajería en una misma web para que sus
       agentes puedan contestar a todos sus clientes. Sea cual sea su empresa,
