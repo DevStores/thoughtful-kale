@@ -45,7 +45,7 @@
 .text-block,
 .block-item {
   .cell {
-    text-align: center;
+    text-align: left;
   }
 
   .underline:after {
@@ -491,7 +491,7 @@
         border-radius: 0 3px 3px 0;
         height: 100%;
         object-fit: cover;
-        width: 90%;
+        width: 100%;
       }
     }
 
