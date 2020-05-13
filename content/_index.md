@@ -29,7 +29,7 @@ sections:
           * Implementar respuestas automáticas (solicitud de pedidos, horarios, coordinación de visitas)
         title: "CON WHATSAPP OFICIAL PUEDE:"
         image: /images/chat-y-reporte.png
-      - title: "TAMBIEN PUEDE:"
+      - title: "TAMBIÉN PUEDE:"
         content: >-
           * Recibir y enviar contenido multimedia (PDF, textos, audios, imágenes
           y videos)  
